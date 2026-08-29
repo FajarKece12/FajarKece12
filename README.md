@@ -1,29 +1,29 @@
-# 👋 Hi, I'm Abdul Azis Alfajar
+# 👋 Halo, Saya Abdul Azis Alfajar
 
-### 💻 Informatics Engineering Graduate | Web Developer | IT Apps Developer
+### 💻 Informatika | Web Developer | IT Apps Developer
 
-I am an **Informatics Engineering graduate from Universitas Trunojoyo Madura** with a strong interest in **Web Development and Web Application Development**.
+Saya merupakan **lulusan Teknik Informatika Universitas Trunojoyo Madura** yang memiliki minat kuat dalam bidang **Web Development dan pengembangan aplikasi berbasis web**.
 
-I enjoy building web applications, designing user-friendly interfaces, working with databases, and solving problems through technology.
+Saya memiliki pengalaman dalam membangun sistem informasi berbasis web, mulai dari **analisis kebutuhan, perancangan database dan antarmuka, pengembangan fitur, integrasi backend, hingga pengujian sistem**.
 
-Currently, I am continuously improving my skills in **Full-Stack Web Development** and exploring modern technologies to build scalable and useful applications.
+Saat ini saya terus mengembangkan kemampuan di bidang **Full-Stack Web Development** dan tertarik untuk membangun aplikasi yang dapat memberikan solusi terhadap permasalahan nyata.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Tentang Saya
 
 * 🎓 **S1 Teknik Informatika** — Universitas Trunojoyo Madura
-* 💻 Interested in **Web Development & Full-Stack Development**
-* 🔧 Experienced in developing **web-based information systems**
-* 🏢 IT Apps Developer experience at **PT ISS Sampoerna**
-* 🌱 Currently improving my skills in **Laravel, PHP, JavaScript & MySQL**
-* 🤝 Open to **job opportunities, collaboration, and interesting projects**
+* 💻 Fokus pada **Web Development & Full-Stack Development**
+* 🔧 Berpengalaman membangun **sistem informasi berbasis web**
+* 🏢 Memiliki pengalaman sebagai **IT Apps Developer di PT ISS Sampoerna**
+* 🌱 Terus mengembangkan kemampuan di **Laravel, PHP, JavaScript, dan MySQL**
+* 🤝 Terbuka untuk **kesempatan kerja, kolaborasi, dan project menarik**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Keahlian & Teknologi
 
-### 💻 Programming & Framework
+### 💻 Bahasa Pemrograman & Framework
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,python,html,css,js,laravel,bootstrap,tailwind" />
@@ -37,64 +37,64 @@ Currently, I am continuously improving my skills in **Full-Stack Web Development
 
 ---
 
-## 💼 Experience
+## 💼 Pengalaman
 
 ### 🏢 IT Apps Developer — PT ISS Sampoerna
 
 **Web Monitoring & Maintenance | Internal Vendor Management System**
 
-Developed a web-based system to support **unit monitoring and maintenance management**, including unit data management, damage reporting, maintenance scheduling, technician assignment, repair status tracking, and maintenance history.
+Mengembangkan sistem berbasis web untuk mendukung **monitoring unit barang dan pengelolaan maintenance**, mulai dari pendataan unit, pelaporan kerusakan, penjadwalan maintenance, penugasan teknisi, pemantauan status perbaikan, hingga pencatatan riwayat maintenance.
 
-**Tech:** `Laravel` `PHP` `MySQL` `Tailwind CSS`
+**Teknologi:** `Laravel` `PHP` `MySQL` `Tailwind CSS`
 
 ---
 
 ### 🏢 IT / Web Developer — Dinas Pertanian, Perikanan, dan Ketahanan Pangan Bangkalan
 
-Developed a **web-based e-commerce platform** to support digital marketing and sales of agricultural products, including product catalog, shopping cart, checkout, payment, transaction history, and admin management.
+Mengembangkan **website e-commerce produk pertanian** untuk mendukung pemasaran dan proses penjualan secara digital, dengan fitur katalog produk, keranjang belanja, checkout, pembayaran, riwayat transaksi, dan pengelolaan data oleh admin.
 
-**Tech:** `Laravel` `HTML` `CSS` `JavaScript` `Bootstrap`
-
----
-
-## 📌 Featured Projects
-
-### 🔧 Web Monitoring & Maintenance System
-
-> Internal system for monitoring and managing maintenance of company assets.
-
-**Features:**
-
-* 📦 Unit / Asset Management
-* 🛠️ Maintenance Reports
-* 📅 Maintenance Scheduling
-* 👨‍🔧 Technician Assignment
-* 📊 Maintenance Monitoring
-* 📝 Maintenance History
-* 🔔 Status Notifications
-
-**Tech:** Laravel • MySQL • Tailwind CSS
+**Teknologi:** `Laravel` `HTML` `CSS` `JavaScript` `Bootstrap`
 
 ---
 
-### 🛒 Agricultural E-Commerce Website
+## 🚀 Project Unggulan
 
-> Web-based e-commerce platform for agricultural products.
+### 🔧 Sistem Monitoring & Maintenance Unit Barang
 
-**Features:**
+Sistem berbasis web yang dikembangkan untuk membantu perusahaan dalam melakukan **monitoring kondisi unit barang dan pengelolaan proses maintenance secara terintegrasi**.
 
-* Product Catalog
-* Shopping Cart
-* Checkout
-* Payment
-* Transaction History
-* Admin Dashboard
+**Fitur utama:**
 
-**Tech:** Laravel • Bootstrap • JavaScript • MySQL
+* 📦 Pengelolaan data unit barang
+* 🛠️ Pelaporan kerusakan
+* 📅 Penjadwalan maintenance
+* 👨‍🔧 Penugasan teknisi
+* 📊 Monitoring status perbaikan
+* 📝 Riwayat maintenance
+* 🔔 Notifikasi perubahan status
+
+**Teknologi:** Laravel • MySQL • Tailwind CSS
 
 ---
 
-## 📊 GitHub Stats
+### 🛒 Website E-Commerce Produk Pertanian
+
+Website berbasis web yang dikembangkan untuk mendukung **digitalisasi pemasaran dan penjualan produk pertanian**.
+
+**Fitur utama:**
+
+* 🛍️ Katalog produk
+* 🛒 Keranjang belanja
+* 📦 Checkout
+* 💳 Pembayaran
+* 🧾 Riwayat transaksi
+* 👨‍💼 Dashboard admin
+
+**Teknologi:** Laravel • Bootstrap • JavaScript • MySQL
+
+---
+
+## 📊 Statistik GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FajarKece12&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -103,7 +103,7 @@ Developed a **web-based e-commerce platform** to support digital marketing and s
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Aktivitas GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=FajarKece12&theme=tokyonight&hide_border=true" />
@@ -111,7 +111,7 @@ Developed a **web-based e-commerce platform** to support digital marketing and s
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Kontribusi
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FajarKece12&theme=tokyo-night&hide_border=true" />
@@ -119,9 +119,9 @@ Developed a **web-based e-commerce platform** to support digital marketing and s
 
 ---
 
-## 🎯 What I'm Looking For
+## 🎯 Posisi yang Saya Minati
 
-I am currently interested in opportunities as:
+Saya tertarik untuk berkembang dan berkontribusi sebagai:
 
 * 💻 **Web Developer**
 * ⚙️ **Full-Stack Developer**
@@ -129,23 +129,23 @@ I am currently interested in opportunities as:
 * 🌐 **Software Engineer**
 * 🧑‍💻 **IT / Application Developer**
 
-I am open to learning new technologies, collaborating with teams, and contributing to real-world projects.
+Saya terbuka untuk mempelajari teknologi baru, bekerja dalam tim, serta berkontribusi dalam pengembangan aplikasi yang memberikan solusi nyata.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Mari Terhubung
 
 <p>
   <a href="https://github.com/FajarKece12">
     <img src="https://img.shields.io/badge/GitHub-FajarKece12-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="LINKEDIN_KAMU">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-### 💡 "Turning ideas into useful digital solutions."
+### 💡 "Mengubah ide menjadi solusi digital yang bermanfaat."
 
-⭐ Feel free to explore my repositories and projects!
+⭐ **Silakan jelajahi repository saya untuk melihat project dan pengalaman yang telah saya kerjakan.**
