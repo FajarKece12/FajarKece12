@@ -138,7 +138,7 @@ Saya terbuka untuk mempelajari teknologi baru, bekerja dalam tim, serta berkontr
   <a href="https://github.com/FajarKece12">
     <img src="https://img.shields.io/badge/GitHub-FajarKece12-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="LINKEDIN_KAMU">
+  <a href="https://www.linkedin.com/in/abdul-azis-alfajar-095974432/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
