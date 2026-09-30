@@ -1,6 +1,6 @@
 # 👋 Halo, Saya Abdul Azis Alfajar
 
-### 💻 Informatika | Web Developer | IT Apps Developer
+### 💻 Informatika | Web Developer 
 
 Saya merupakan **lulusan Teknik Informatika Universitas Trunojoyo Madura** yang memiliki minat kuat dalam bidang **Web Development dan pengembangan aplikasi berbasis web**.
 
@@ -39,7 +39,7 @@ Saat ini saya terus mengembangkan kemampuan di bidang **Full-Stack Web Developme
 
 ## 💼 Pengalaman
 
-### 🏢 IT Apps Developer — PT ISS Sampoerna
+### 🏢 Full Stack Developer — PT ISS Sampoerna
 
 **Web Monitoring & Maintenance | Internal Vendor Management System**
 
@@ -127,7 +127,6 @@ Saya tertarik untuk berkembang dan berkontribusi sebagai:
 * ⚙️ **Full-Stack Developer**
 * 🖥️ **Backend Developer**
 * 🌐 **Software Engineer**
-* 🧑‍💻 **IT / Application Developer**
 
 Saya terbuka untuk mempelajari teknologi baru, bekerja dalam tim, serta berkontribusi dalam pengembangan aplikasi yang memberikan solusi nyata.
 
