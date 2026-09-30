@@ -15,7 +15,7 @@ Saat ini saya terus mengembangkan kemampuan di bidang **Full-Stack Web Developme
 * 🎓 **S1 Teknik Informatika** — Universitas Trunojoyo Madura
 * 💻 Fokus pada **Web Development & Full-Stack Development**
 * 🔧 Berpengalaman membangun **sistem informasi berbasis web**
-* 🏢 Memiliki pengalaman sebagai **IT Apps Developer di PT ISS Sampoerna**
+* 🏢 Memiliki pengalaman sebagai **Full Stack Developer di PT ISS Sampoerna**
 * 🌱 Terus mengembangkan kemampuan di **Laravel, PHP, JavaScript, dan MySQL**
 * 🤝 Terbuka untuk **kesempatan kerja, kolaborasi, dan project menarik**
 
