@@ -141,33 +141,6 @@ Project ini dikembangkan sebagai bagian dari penelitian tugas akhir dengan pende
 
 **Teknologi:** `Python` `XGBoost` `Scikit-learn` `Pandas` `Streamlit`
 
----
-
-## 📊 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FajarKece12&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FajarKece12&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 Aktivitas GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FajarKece12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Kontribusi
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FajarKece12&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
 ## 🎯 Posisi yang Saya Minati
 
 Saya tertarik untuk berkembang dan berkontribusi sebagai:
