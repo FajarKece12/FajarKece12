@@ -124,7 +124,7 @@ Website berbasis web yang dikembangkan untuk mendukung **digitalisasi pemasaran 
 
 ---
 
-### ❤️ 3. Heart Disease Classification — XGBoost
+### ❤️ 3. Heart Disease Classification - XGBoost
 
 Aplikasi klasifikasi penyakit jantung menggunakan algoritma **XGBoost dengan optimasi hyperparameter** untuk membantu mengklasifikasikan status penyakit jantung berdasarkan data kesehatan.
 
