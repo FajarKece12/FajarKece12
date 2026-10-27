@@ -42,7 +42,7 @@ Saat ini saya terus mengembangkan kemampuan di bidang **Full-Stack Web Developme
 
 ### 🏢 Full Stack Developer | PT ISS Sampoerna
 
-**Web Monitoring & Maintenance — Internal Vendor Management System**
+**Web Monitoring & Maintenance | Internal Vendor Management System**
 
 Mengembangkan sistem berbasis web untuk mendukung **monitoring unit barang dan pengelolaan maintenance**, mulai dari pendataan unit, pelaporan kerusakan, penjadwalan maintenance, penugasan teknisi, pemantauan status perbaikan, hingga pencatatan riwayat maintenance.
 
@@ -57,7 +57,7 @@ Mengembangkan sistem berbasis web untuk mendukung **monitoring unit barang dan p
 
 ---
 
-### 💻 Web Developer | PROJEKA — Pengembangan & Teknologi
+### 💻 Web Developer | PROJEKA Pengembangan & Teknologi
 
 Berperan dalam menyediakan layanan pengembangan website untuk berbagai kebutuhan, mulai dari portofolio pribadi hingga website bisnis. Berfokus pada pengembangan solusi digital yang modern, responsif, fungsional, dan sesuai dengan kebutuhan klien.
 
